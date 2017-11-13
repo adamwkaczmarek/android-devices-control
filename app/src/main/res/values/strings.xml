@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevicesControl</string>
+    <string name="refresh_button">Refresh</string>
+</resources>

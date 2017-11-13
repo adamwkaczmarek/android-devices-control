@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "test",
+    "description": "test_desc",
+    "ip": "localhost"
+  },
+  {
+    "id": "2",
+    "name": "test_2",
+    "description": "test_desc",
+    "ip": "host2"
+  },
+  {
+    "id": "3",
+    "name": "test_3",
+    "description": "test_desc",
+    "ip": "host3"
+  }
+]
